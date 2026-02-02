@@ -1,9 +1,9 @@
 ## Olá eu sou o Vinicius Lordron  👋
 
 <div>
-  [<img src="https://github-readme-stats.vercel.app/api?username=viniciuslordron" />](https://github-readme-stats.zcy.dev/api/top-langs/?username=viniciuslordron&layout=compact&theme=dracula
-)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslordron&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats.zcy.dev/api?username=viniciuslordron&theme=dracula" />
+<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=viniciuslordron&layout=compact&theme=dracula" />
+
 </div>
 
 ### 🛠️ Tecnologias que trabalho!
