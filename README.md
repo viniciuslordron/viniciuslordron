@@ -1,7 +1,7 @@
 ## Olá eu sou o Vinicius Lordron  👋
 
 <div>
-<img src="[https://github-readme-stats.zcy.dev/api?username=viniciuslordron&theme=dracula](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 <img src="https://github-readme-stats.zcy.dev/api?username=viniciuslordron&theme=dracula" />
 
 
