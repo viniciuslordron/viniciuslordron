@@ -2,7 +2,7 @@
 
 <div>
 <img src="https://github-readme-stats.zcy.dev/api?username=viniciuslordron&theme=dracula" />
-<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=viniciuslordron&layout=compact&theme=dracula" />
+
 
 </div>
 
