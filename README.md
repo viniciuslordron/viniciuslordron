@@ -9,7 +9,6 @@
 
 ### 🛠️ Tecnologias que trabalho!
 
-<div style="display: flex">
   
   <img align = "center" alt= "vini-visual" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   
@@ -27,8 +26,6 @@
   
   <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
-
-</div>
 
 ##
 
