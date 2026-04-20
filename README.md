@@ -9,7 +9,7 @@
 
 ### 🛠️ Tecnologias que trabalho!
 
-<div style="display: inline_block">
+<div style="display: flex">
   
   <img align = "center" alt= "vini-visual" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   
